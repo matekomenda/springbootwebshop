@@ -1,2 +1,2 @@
 # springbootwebshop
-springboot backend + React.js frontend
+springboot backend + React.js frontend + MySql DB
